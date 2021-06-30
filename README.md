@@ -47,3 +47,6 @@ NOTE:
 - Makefile co the dat ten cac action, vd: install, install-gcp, install-aws
 - icon cua github actions dc copy tu cho theo doi build
 ```
+
+tham khao clip: https://www.youtube.com/watch?v=4gbUYOgALik
+tham khao github: https://github.com/noahgift/github-actions-demo
