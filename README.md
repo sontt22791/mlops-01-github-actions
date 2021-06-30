@@ -42,6 +42,7 @@ sau khi push len github => vao github actions => create workflows
 
 NOTE:
 ```
+- trong project nay minh moi su dung aws cloud9 de code, nhung co the dung gcp console, aws console (deu co terminal va code o ca 3 cloud nay) 
 - co the tao nhieu github action tren 1 project bang cach new 1 workflow moi
 - Makefile co the dat ten cac action, vd: install, install-gcp, install-aws
 - icon cua github actions dc copy tu cho theo doi build
