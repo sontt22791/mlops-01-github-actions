@@ -39,3 +39,9 @@ tao github actions
 ```
 sau khi push len github => vao github actions => create workflows
 ```
+
+NOTE:
+```
+- co the tao nhieu github action tren 1 project bang cach new 1 workflow moi
+- Makefile co the dat ten cac action, vd: install, install-gcp, install-aws
+```
