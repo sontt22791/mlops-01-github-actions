@@ -37,7 +37,7 @@ git pull
 
 tao github actions
 ```
-sau khi push len github => vao github actions => create workflows
+sau khi push len github => vao github actions => create workflows => edit workflow de run cac cmd make install, make format, make lint, make test...
 ```
 
 NOTE:
